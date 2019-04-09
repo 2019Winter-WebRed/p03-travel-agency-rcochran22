@@ -1,0 +1,30 @@
+/*
+* Riley Cochran
+* 01/01/19
+* Padua Panda Traveling Agency
+*/
+
+/* The universal selector */
+
+* {
+
+}
+/*  Body Attributes here */
+
+body {background-color:azure; width: 80%; margin:auto;
+}
+/*Sri Lanka Pictures*/
+#Sri_Lanka1{width: 290px; height: 240px;}
+#fig1 {float:left;}
+#Sri_Lanka2{width: 290px; height: 240px;}
+#fig2 {float:left;}
+#Sri_Lanka_3{width: 290px; height: 240px;}
+#fig3 {float:left;}
+
+/*Sri Lanka Table*/
+table, td, th{ border: 1px solid antiquewhite;}
+table { border border-collapse: collapse;}
+.nofloat{clear:both;}
+thead{ background-color:antiquewhite;}
+tbody{ background-color:antiquewhite}
+tfoot{ background-color:antiquewhite;}
